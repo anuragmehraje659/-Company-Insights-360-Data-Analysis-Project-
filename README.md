@@ -48,6 +48,6 @@ This project demonstrates the full data analysis lifecycle:
 **Anurag Mehra**  
 Data Analyst | Python · SQL · Power BI  
 📧 [anuragmehraje65@gmail.com]  
-🌐 [Add your LinkedIn profile link]  
+🌐 [https://in.linkedin.com/in/anurag-mehra-8796573a0]  
 
 ---
